@@ -55,6 +55,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align="center"> 
 <picture>
   <source
     srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KasunUdayanga&theme=algolia"
@@ -112,6 +113,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
 </picture>
+</div>
 <hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YOU+CAN+GET+MORE+INFO;IN+MY+SOCIAL+MEDIA..!;" />
