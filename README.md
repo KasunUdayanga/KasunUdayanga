@@ -57,7 +57,7 @@
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true&theme=highcontrast"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KasunUdayanga&theme=algolia"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -67,17 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
 </picture>
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KasunUdayanga&layout=compact&theme=highcontrast"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
-</picture>
+
 <hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YOU+CAN+GET+MORE+INFO;IN+MY+SOCIAL+MEDIA..!;" />
