@@ -78,6 +78,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
 </picture>
+<picture>
   <source
     srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KasunUdayanga&theme=algolia"
     media="(prefers-color-scheme: dark)"
@@ -100,6 +101,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
 </picture>
+<picture>
   <source
     srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KasunUdayanga&theme=algolia&utcOffset=8"
     media="(prefers-color-scheme: dark)"
