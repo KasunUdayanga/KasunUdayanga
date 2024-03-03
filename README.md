@@ -67,7 +67,49 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
 </picture>
 <br>
-
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KasunUdayanga&theme=algolia"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
+</picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KasunUdayanga&theme=algolia"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
+</picture>
+<br>
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KasunUdayanga&theme=algolia"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
+</picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KasunUdayanga&theme=algolia&utcOffset=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasunUdayanga&show_icons=true" />
+</picture>
 <hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YOU+CAN+GET+MORE+INFO;IN+MY+SOCIAL+MEDIA..!;" />
