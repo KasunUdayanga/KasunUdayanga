@@ -11,8 +11,6 @@
 <div align="center">
  
  🔭 I’m currently working on **Freelancer**
- 
- 🌱 I’m currently learning **University Of Jaffna**
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/KasunUdayanga)**
 
